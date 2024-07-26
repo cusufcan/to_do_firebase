@@ -56,7 +56,6 @@ dependencies {
     implementation(libs.firebase.analytics)
     implementation(libs.firebase.auth)
     implementation(libs.firebase.database)
-    implementation(libs.firebase.storage)
 
     // Navigation
     implementation(libs.androidx.navigation.fragment.ktx)
