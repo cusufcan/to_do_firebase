@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDoFirebase</string>
+
+    <string name="todo">todo</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="type_your_password">Type your Password</string>
+    <string name="retype_your_password">Retype your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="not_registered">Not Registered Yet?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_your_task">Type your task…</string>
+</resources>
